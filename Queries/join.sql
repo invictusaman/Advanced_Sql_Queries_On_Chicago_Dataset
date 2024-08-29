@@ -1,3 +1,5 @@
+-- You have been asked to produce some reports about the communities and crimes in the Chicago area. You will need to use SQL join queries to access the data stored across multiple tables.
+
 -- Write and execute a SQL query to list the school names, community names and average attendance for communities with a hardship index of 98.
 
 SELECT CPS.NAME_OF_SCHOOL,CPS.COMMUNITY_AREA_NAME,CPS.AVERAGE_STUDENT_ATTENDANCE
